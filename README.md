@@ -3,6 +3,10 @@ WuhbGUI is a frontend for DevkitPro's wuhbtool!
 ## Dependencies
 You will need devkitPro installed to use the program, later versions of this program will automatically ship with the newest version of wuhbtool, but for now you will need to get wuhbtool yourself. <br> <br>
 If you want to build the program, you just need Java, no dependencies or external libraries are required!
+## Features
+I think the program is pretty self-explanatory, its a frontend that helps creating WUHB files!<br>
+<br>
+You can also change the WUHBTOOL path in the settings menu!
 ## Roadmap
 You can find a roadmap of what I am planning to add [here](https://trello.com/b/9E1lVdtV/wuhbtool)
 A quick sumary of the important features that __probably__ are gonna come:<br><br>
