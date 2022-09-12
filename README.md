@@ -7,8 +7,8 @@ If you want to build the program, you just need Java, no dependencies or externa
 I think the program is pretty self-explanatory, its a frontend that helps creating WUHB files!<br>
 <br>
 ![Demonstration of the program](https://raw.githubusercontent.com/germanvanadium/wuhbgui/main/wuhbgui.png)<br>
-You can also change the WUHBTOOL path in the settings menu!
-![Demonstration of the customization](https://raw.githubusercontent.com/germanvanadium/wuhbgui/main/settings.png)
+You can also change the WUHBTOOL path in the settings menu!<br>
+![Demonstration of the customization](https://raw.githubusercontent.com/germanvanadium/wuhbgui/main/settings.png)<br>
 ## Roadmap
 You can find a roadmap of what I am planning to add [here](https://trello.com/b/9E1lVdtV/wuhbtool)
 A quick sumary of the important features that __probably__ are gonna come:<br><br>
