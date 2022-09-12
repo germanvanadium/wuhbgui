@@ -9,7 +9,9 @@ I think the program is pretty self-explanatory, its a frontend that helps creati
 ![Demonstration of the program](https://raw.githubusercontent.com/germanvanadium/wuhbgui/main/wuhbgui.png)<br>
 You can also change the WUHBTOOL path in the settings menu!<br>
 ![Demonstration of the customization](https://raw.githubusercontent.com/germanvanadium/wuhbgui/main/settings.png)<br>
-## Roadmap
+## For the devs
+This is a really early version of the program, I've rushed this out, because in a few months/weeks this program is probably obsolete anyway, as most of the Homebrews are gonna get ported to Aroma. The code contains a lot of overcomplicated things -> Im gonna clean up the code soon. Also this isnt the full version of the program, it doesnt have all the big features I wanted to have and as I told, I'm gonna work on it and a Auto Update is gonna get pushed!
+## Whats to come
 You can find a roadmap of what I am planning to add [here](https://trello.com/b/9E1lVdtV/wuhbtool)
 A quick sumary of the important features that __probably__ are gonna come:<br><br>
 • A automatic wuhbtool downloader from the official repo<br>
