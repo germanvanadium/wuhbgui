@@ -5,7 +5,7 @@ You will need devkitPro installed to use the program, later versions of this pro
 If you want to build the program, you just need Java, no dependencies or external libraries are required!
 ## Features
 I think the program is pretty self-explanatory, its a frontend that helps creating WUHB files!<br>
-[Demonstration of the program](https://github.com/germanvanadium/wuhbgui/blob/main/wuhbgui.png?raw=true)<br>
+[Demonstration of the program](https://raw.githubusercontent.com/germanvanadium/wuhbgui/main/wuhbgui.png)<br>
 You can also change the WUHBTOOL path in the settings menu!
 ## Roadmap
 You can find a roadmap of what I am planning to add [here](https://trello.com/b/9E1lVdtV/wuhbtool)
