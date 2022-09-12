@@ -17,4 +17,4 @@ A quick sumary of the important features that __probably__ are gonna come:<br><b
 • WUHB-Extractor (extract informations from a already existing WUHB file)<br>
 • .wuhbconf (a file with informations for the program on what it needs to do, for automation purposes)<br><br>
 ## Alternatives
-[This](https://github.com/NoahAbc12345/WUHB-Packager) is a alternative to wuhbgui, made by NoahAbc12345, it is made in Python and it should work aswell. Ive made this program to have my own version where I implement the features I need and if you feel more comfortable using his tool, then use it! :)
+[This](https://github.com/NoahAbc12345/WUHB-Packager) is a alternative to wuhbgui, made by [NoahAbc12345](https://github.com/NoahAbc12345), it is made in Python and it should work aswell. Ive made this program to have my own version where I implement the features I need and if you feel more comfortable using his tool, then use it! :)
